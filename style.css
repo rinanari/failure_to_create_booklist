@@ -1,0 +1,28 @@
+.app-holder {
+  display: flex;
+  gap: 32px;
+}
+
+.left-block {
+  flex: 0 1 300px;
+  min-width: 250px;
+}
+
+.search-input {
+  width: 120px;
+}
+
+.select-book {
+  background-color: #cccccc;
+}
+
+.center-block {
+  flex: 1 1 100%;
+}
+
+.right-block {
+  flex: 0 1 200px;
+}
+.bli {
+  background-color: red;
+}
